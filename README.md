@@ -16,4 +16,9 @@ Abra o Prompt de Comando digitando “cmd” na caixa de pesquisa do menu Inicia
 * pip install scikit-learn
 * pip install nltk
 
+### Instalação da linguagem de programação
+
+* Link arquivo pkl
+* [https://1drv.ms/u/s!AjnmQASF3XHrgcIOpQgOK4Lhbqq--A?e=06OfU4](https://1drv.ms/u/s!AjnmQASF3XHrgcIOpQgOK4Lhbqq--A?e=06OfU4)https://1drv.ms/u/s!AjnmQASF3XHrgcIOpQgOK4Lhbqq--A?e=06OfU4
+
 
