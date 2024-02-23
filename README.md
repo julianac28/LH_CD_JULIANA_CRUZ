@@ -14,5 +14,6 @@ Abra o Prompt de Comando digitando “cmd” na caixa de pesquisa do menu Inicia
 * pip install matplotlib
 * pip install seaborn
 * pip install scikit-learn
+* pip install nltk
 
 
